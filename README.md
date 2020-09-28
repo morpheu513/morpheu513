@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ahoy](https://tenor.com/view/fall-guys-hi-cute-gif-18429544.mp4)
+![Ahoy](https://tenor.com/view/fall-guys-hi-cute-gif-18429544.gif)
