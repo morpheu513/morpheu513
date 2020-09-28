@@ -17,7 +17,7 @@ Computer Science major from [PES University](https://www.pes.edu/). Currently in
     - Computer Vision
     - Cryptography 
 - 😴 Trying to maintain a sleep schedule 
-- ⚡ Fun fact: A koalas🐨 sleep for 20hrs a day
+- ⚡ Fun fact: Koalas🐨 sleep for 20hrs a day
 
 <!--
 To set up the profile counter thing go to https://pipedream.com/ and set up this workflow https://pipedream.com/@/p_G6CNmN/edit?copy=true
