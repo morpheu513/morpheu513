@@ -11,7 +11,6 @@ Computer Science major from [PES University](https://www.pes.edu/). Currently in
     - Privacy Preserving Deep Learning
 - 🌱 Currently learning
     - Natural Language Processing 
-    - PyTorch
 - 🙃 Interests
     - Deep Learning
     - Computer Vision
