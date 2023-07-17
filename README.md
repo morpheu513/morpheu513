@@ -2,18 +2,19 @@
 
 <img align="right" src="https://tenor.com/view/hi-fox-cute-gif-9313641.gif">
 
-Computer Science major from [PES University](https://www.pes.edu/). Currently in my junior year
+Computer Science major from [PES University](https://www.pes.edu/). Currently working as a Data Scientist at [Navi Technologies](https://navi.com/)
 
 ![counter](https://enhieqesr7cq9kr.m.pipedream.net)
 
 - 🔭 Currently working on
-    - Content Based Image Retrieval 
-    - Privacy Preserving Deep Learning
+    - Credit Underwriting and Fraud Prediction 
+    - Collections Omtimization in Lending
 - 🌱 Currently learning
+    - Financial Statistics
     - Natural Language Processing 
 - 🙃 Interests
+    - Statistics
     - Deep Learning
-    - Computer Vision
     - Cryptography 
 - 😴 Trying to maintain a sleep schedule 
 - ⚡ Fun fact: Koalas🐨 sleep for 20hrs a day
